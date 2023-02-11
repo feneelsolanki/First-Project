@@ -1,2 +1,2 @@
 # First-Project
-##This is our first project while practicing Github
+## This is our first project while practicing Github
